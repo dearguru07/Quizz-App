@@ -50,26 +50,7 @@
 // export default QuizTaker;
 
 
-Skip to content
- 
-Search Gists
-Search...
-All gists
-Back to GitHub
-@roshanlabh
-roshanlabh/react-phone-book.js
-Created 4 years ago • Report abuse
-Code
-Revisions
-1
-Stars
-32
-Forks
-14
-Clone this repository at &lt;script src=&quot;https://gist.github.com/roshanlabh/eac12ebf9fa76880699256aefcb8d955.js&quot;&gt;&lt;/script&gt;
-<script src="https://gist.github.com/roshanlabh/eac12ebf9fa76880699256aefcb8d955.js"></script>
-Coderbyte - React Phone Book [solution]
-react-phone-book.js
+
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
 
@@ -200,32 +181,32 @@ function Application(props) {
 }
 
 ReactDOM.render(<Application />, document.getElementById("root"));
-@prestonbourne
-prestonbourne commented on Jun 13, 2022
-I had a code byte assessment with this just yesterday, as soon as I finished I saw someone do it in ten minutes. I on the other hand...took 5 hours.
+// @prestonbourne
+// prestonbourne commented on Jun 13, 2022
+// I had a code byte assessment with this just yesterday, as soon as I finished I saw someone do it in ten minutes. I on the other hand...took 5 hours.
 
-@gfox1984
-gfox1984 commented on Jul 27, 2022
-Thanks for this gist, it makes it very easy for me to see which of my candidates are cheating :D
+// @gfox1984
+// gfox1984 commented on Jul 27, 2022
+// Thanks for this gist, it makes it very easy for me to see which of my candidates are cheating :D
 
-@yeuditspiner
-yeuditspiner commented on Feb 15, 2023
-thanks about the solution,
-can you put here the question?
+// @yeuditspiner
+// yeuditspiner commented on Feb 15, 2023
+// thanks about the solution,
+// can you put here the question?
 
-@dearguru07
-Comment
+// @dearguru07
+// Comment
  
-Leave a comment
+// Leave a comment
  
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
+// Footer
+// © 2025 GitHub, Inc.
+// Footer navigation
+// Terms
+// Privacy
+// Security
+// Status
+// Docs
+// Contact
+// Manage cookies
+// Do not share my personal information
